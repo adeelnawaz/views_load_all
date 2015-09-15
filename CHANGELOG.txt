@@ -1,0 +1,7 @@
+
+views_load_all 7.x-1.x, xxxx-xx-xx
+-----------------------------------
+
+views_load_all 7.x-1.2, 2015-09-15
+-----------------------------------
+#1372206 by adeelnawaz: initiated from views_load_more

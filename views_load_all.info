@@ -1,0 +1,7 @@
+name = Views Load All
+description = A pager plugin for views. Gives users the option to add a 'Show All' button to a view and have all the results appended to existing results being displayed.
+core = 7.x
+package = Views
+dependencies[] = views
+files[] = views_load_all.views.inc
+files[] = views_plugin_pager_load_all.inc
